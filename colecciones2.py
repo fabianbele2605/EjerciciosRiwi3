@@ -1,4 +1,4 @@
-'''
+
 #Diccionario
 
 coder={
@@ -93,7 +93,7 @@ print(edad)
 correo=Estudiante.get("correo","No disponible")
 print(correo)
 
-'''
+
 
 #Ahora con ciclos for
 
